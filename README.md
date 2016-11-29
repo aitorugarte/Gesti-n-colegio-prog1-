@@ -1,1 +1,1 @@
-# Gesti-n-colegio-prog1-
+# Gestión colegio (prog1)
